@@ -1,0 +1,5 @@
+Valeria 10 8 5
+Hernesto 7 4 7
+Jose 3 6 9
+Andres 5 10 2
+Miguel 3 6 7

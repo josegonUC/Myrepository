@@ -1,0 +1,6 @@
+Posicion academica	Nombre	Nota final
+1	Valeria	7.67
+2	Hernesto	6.00
+3	Jose	6.00
+4	Andres	5.67
+5	Miguel	5.33
